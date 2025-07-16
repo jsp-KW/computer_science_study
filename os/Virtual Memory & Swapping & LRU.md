@@ -1,4 +1,4 @@
-Virtual Memory, Swapping, Page Replacement Summary
+💡 Virtual Memory, Swapping, Page Replacement Summary
 
 ✅ 가상 메모리 (Virtual Memory)
 
